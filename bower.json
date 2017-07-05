@@ -1,0 +1,20 @@
+{
+  "name": "template",
+  "description": "",
+  "main": "",
+  "authors": [
+    "David Rolfs <Davidrolfs15@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
